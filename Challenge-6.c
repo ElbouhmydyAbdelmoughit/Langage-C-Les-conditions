@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+
+
 int main()
 {
     float a,b,c ,Delta,E,x1,x2;
